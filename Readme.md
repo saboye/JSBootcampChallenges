@@ -4,10 +4,17 @@
 <h1 align="center" style="color:blue;" id="heading"> Technosoft  </h1>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/saboye/JSBootcampChallenges?color=blue&logo=github&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saboye/JSBootcampChallenges?logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/saboye/JSBootcampChallenges?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/saboye/JSBootcampChallenges?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/saboye/JSBootcampChallenges?color=blue&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/saboye/JSBootcampChallenges?logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-raw/saboye/JSBootcampChallenges?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/saboye/JSBootcampChallenges?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-green?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Chai-4.3.4-yellow?style=for-the-badge&logo=chai">
+  <img src="https://img.shields.io/badge/Mocha-9.1.3-orange?style=for-the-badge&logo=mocha">
+</p>
+
+
 
 Welcome to the Technosoft JS Bootcamp Challenges repository. This repository contains a series of challenges for the Technosoft JS Bootcamp.
 
