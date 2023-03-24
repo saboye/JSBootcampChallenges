@@ -1,6 +1,5 @@
 /* eslint-disable no-undef */
 const { expect } = require('chai');
-
 const {
   cap, firstCharacter, doesInclude,
 } = require('./strings');

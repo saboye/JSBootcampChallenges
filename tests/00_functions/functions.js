@@ -24,6 +24,7 @@ function addUnknown() {
   }
   return sum;
 }
+console.log(addUnknown(1, 2, 3, 4, 5));
 
 function evenOrOdd(num) {
   if (num % 2 === 0) {
