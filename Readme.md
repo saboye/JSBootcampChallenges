@@ -16,7 +16,7 @@
 
 
 
-Welcome to the Technosoft JS Bootcamp Challenges repository. This repository contains a series of challenges for the Technosoft JS Bootcamp. It uses a Test-Driven Development (TDD) approach, where each challenge has a set of tests that you must pass in order to complete the challenge. 
+Welcome to the Technosoft JS Bootcamp Challenges repository. This repository contains a series of challenges forked from the Technosoft JS Bootcamp repository. It uses a Test-Driven Development (TDD) approach, where each challenge has a set of tests that you must pass in order to complete the challenge. 
 
 # Installation
 To get started, fork this repository to your GitHub account and clone the repository to your local machine using the following command:
