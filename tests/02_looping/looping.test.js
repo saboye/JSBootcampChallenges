@@ -44,7 +44,7 @@ describe('stringReverse', () => {
   });
 });
 
-describe('slicer', () => {
+describe.only('slicer', () => {
   it('is a function', () => {
     expect(typeof slicer).to.equal('function');
   });

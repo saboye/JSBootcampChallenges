@@ -1,6 +1,7 @@
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-unused-vars */
 function factorial(num) {
+    // recursion nice!
     if(num === 0) {
         return 1;
     }else {
@@ -20,6 +21,15 @@ function stringReverse(str) {
 // do not use built in slice method.
 function slicer(originalString, startIdx, endIdx) {
     let newStr = '';
+    // you need to handle cases where startIdx and endIdx is not defined. Can do that like this below.
+
+    if (!startIdx) {
+        return originalString
+    }
+
+    if (!endIdx) {
+        endIdx = originalString.length
+    }
     for(let i = startIdx; i < endIdx; i++) {
         newStr += originalString[i];
     }

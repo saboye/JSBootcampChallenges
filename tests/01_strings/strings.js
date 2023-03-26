@@ -16,6 +16,7 @@ function cap(str, letter) {
 function firstCharacter(str1, str2) {
   const strOne = str1[0];
   const strTwo = str2[0];
+  // Nice job! this should work without the if statement. the lowecase will handle all scenarios.
   return strOne.toLowerCase() === strTwo.toLowerCase() || strOne === strTwo;
 }
 
