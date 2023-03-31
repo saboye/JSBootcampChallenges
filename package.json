@@ -11,7 +11,7 @@
     "test:arrays": "mocha --recursive tests/03_arrays/**/*.js --reporter mocha-simple-html-reporter --reporter-options output=./tests/03_arrays/array_test_report.html --timeout 60000 --exit",
     "test:objects": "mocha --recursive tests/04_objects/**/*.js --reporter mocha-simple-html-reporter --reporter-options output=./tests/04_objects/object_test_report.html --timeout 60000 --exit",
     "test:objectMethods": "mocha --recursive tests/05_objectMethods/**/*.js --reporter mocha-simple-html-reporter --reporter-options output=./tests/05_objectMethods/objectMethod_test_report.html --timeout 60000 --exit",
-    "test:arrayMethods": "mocha --recursive tests/06_arrayMethods/**/*.js --reporter mocha-simple-html-reporter --reporter-options output=./tests/06_arrayMethods/arrayMethod_test_report.html--timeout 60000 --exit",
+    "test:arrayMethods": "mocha --recursive tests/06_arrayMethods/**/*.js --timeout 60000 --exit",
     "test:async": "mocha --recursive tests/07_async/**/*.js --timeout 60000 --exit"
   },
   "keywords": [],
